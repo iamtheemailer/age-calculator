@@ -1,0 +1,21 @@
+ rttt
+.container-1{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+.flex-box-container-1{
+    display: flex;
+    border: 2px solid black;
+    padding: 10px;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.flex-box-container-1 div{
+    padding: 10px;
+    border: 1px solid black;
+    align-items: center;
+}
